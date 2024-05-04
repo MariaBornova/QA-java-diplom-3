@@ -18,10 +18,7 @@ public class UserProfilePage {
     public UserProfilePage(WebDriver driver) {
         this.driver = driver;
     }
-    @Step("Проверяем - отображается ли имя профиля?")
-    public boolean isProfileNameFieldDisplayed() {
-        return driver.findElement(PROFILE_NAME_FIELD).isDisplayed();
-    }
+
 
     @Step("Клик по кнопке Конструктор")
     public void clickConstructorButton() {

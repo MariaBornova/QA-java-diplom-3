@@ -1,4 +1,3 @@
-import io.qameta.allure.Description;
 import io.qameta.allure.junit4.DisplayName;
 import org.junit.Test;
 import pageobject.MainPage;

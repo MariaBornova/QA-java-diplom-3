@@ -63,8 +63,4 @@ public class MainPage {
         return driver.findElement(ORDER_BUTTON).isDisplayed();
     }
 
-    @Step("Получение текста на кнопке в Корзине")
-    public String getBasketButtonText() {
-        return driver.findElement(ORDER_BUTTON).getText();
-    }
 }

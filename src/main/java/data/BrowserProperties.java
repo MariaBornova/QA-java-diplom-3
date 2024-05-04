@@ -10,7 +10,7 @@ public class BrowserProperties {
 
         WebDriver driver;
         String browserName = System.getProperty("browser");
-        if (browserName==null) { browserName = ""; };
+        if (browserName==null) { browserName = "" ;}
 
         ChromeOptions options = new ChromeOptions();
         switch (browserName) {
