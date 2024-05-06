@@ -1,4 +1,4 @@
-import apiMethods.UserApi;
+import apimethods.UserApi;
 import static data.Url.*;
 
 import org.openqa.selenium.support.ui.ExpectedConditions;

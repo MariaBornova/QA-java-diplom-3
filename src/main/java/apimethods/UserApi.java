@@ -1,4 +1,4 @@
-package apiMethods;
+package apimethods;
 
 import static data.Url.*;
 import io.qameta.allure.Step;

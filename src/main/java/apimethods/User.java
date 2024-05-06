@@ -1,4 +1,4 @@
-package apiMethods;
+package apimethods;
 
 public class User {
     private String email;

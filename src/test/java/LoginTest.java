@@ -1,4 +1,4 @@
-import apiMethods.UserApi;
+import apimethods.UserApi;
 import static data.Url.BASE_URL;
 import pageobject.LoginPage;
 import pageobject.RecoveryPasswordPage;

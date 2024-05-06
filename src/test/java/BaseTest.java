@@ -1,7 +1,7 @@
 import data.BrowserProperties;
-import apiMethods.UserApi;
-import apiMethods.UserData;
-import apiMethods.User;
+import apimethods.UserApi;
+import apimethods.UserData;
+import apimethods.User;
 import io.qameta.allure.Step;
 import io.restassured.response.Response;
 import org.junit.After;

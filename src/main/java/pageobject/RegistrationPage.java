@@ -1,6 +1,6 @@
 package pageobject;
 
-import apiMethods.User;
+import apimethods.User;
 import static data.Url.*;
 import io.qameta.allure.Step;
 import org.openqa.selenium.By;
